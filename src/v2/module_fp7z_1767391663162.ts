@@ -1,0 +1,1 @@
+const util_fp7z = (d: any) => d;
